@@ -1,6 +1,6 @@
 # 🎯 Hi, I'm Karan B.C.
 
-### Backend Developer | Computer Science Enthusiast 
+### Backend Developer | Software Development|Computer Science Student |AI Enthusiast 
 
 
 ---
