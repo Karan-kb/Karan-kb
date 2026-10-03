@@ -69,7 +69,7 @@ Building scalable backend systems and preparing for advanced research in:
 ## 📫 Contact
 
 - 📧 **Email:** bckaran17@gmail.com
-- 💼 **GitHub:** [://github.com](https://://github.com) *(Update with your actual link)*
+- 💼 **GitHub:** [://github.com](https://github.com/Karan-kb) 
 
 ---
 
