@@ -2,27 +2,23 @@
 
 ### Backend Developer | Software Development | Computer Science Student | AI Enthusiast 
 
-
 ---
 
 ## 👨‍💻 About Me
 
-🌍 Based in Kathmandu, Nepal  
-🎓 Preparing for graduate studies and research in Computer Science  
-🧠 Passionate about scalable backend systems, Artificial Intelligence, and enterprise software solutions  
-🚀 Currently exploring AI-assisted development workflows and Generative AI applications  
+- 🌍 **Based in:** Kathmandu, Nepal  
+- 🎓 **Focus:** Preparing for graduate studies and research in Computer Science  
+- 🧠 **Passionate about:** Scalable backend systems, Artificial Intelligence, and enterprise software solutions  
+- 🚀 **Currently exploring:** AI-assisted development workflows and Generative AI applications  
 
 ---
 
 ## 🔍 Areas of Interest
 
 - Backend Development
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- ERP Systems
-- Database Architecture
-- AI-assisted Applications
+- Artificial Intelligence & Machine Learning
+- Generative AI & AI-assisted Applications
+- ERP Systems & Database Architecture
 - Scalable Enterprise Solutions
 
 ---
@@ -47,18 +43,17 @@
 ## 🌟 Featured Projects
 
 ### 🏢 ERP Backend System
-Enterprise resource planning system with:
-- Inventory Management
+An enterprise resource planning system featuring:
 - Multi-Tenant Architecture
+- Inventory Management & Stock Reporting
 - Task Scheduling
-- Spatie Roles and Permission
-- Stock Report
+- Role-based access control (Spatie Roles & Permissions)
 
 ### ⚡ Bidut Utility Billing System
-Utility billing and management platform.
+- A robust utility billing and management platform.
 
 ### 📦 Inventory Management System
-Inventory and warehouse tracking system with stock management features.
+- An inventory and warehouse tracking system with automated stock management features.
 
 ---
 
@@ -67,14 +62,14 @@ Inventory and warehouse tracking system with stock management features.
 Building scalable backend systems and preparing for advanced research in:
 - Enterprise Software Architecture
 - AI-assisted Business Solutions
-- Software Development
-- Artificial Intelligence
-- Machine Learning
+- Software Development, AI, and Machine Learning
+
 ---
 
 ## 📫 Contact
 
-📧 Email: **bckaran17@gmail.com**
+- 📧 **Email:** bckaran17@gmail.com
+- 💼 **GitHub:** [://github.com](https://://github.com) *(Update with your actual link)*
 
 ---
 
