@@ -1,78 +1,59 @@
 # 🎯 Hi, I'm Karan B.C.
 
-### Backend Developer | Software Development | Computer Science Student | AI Enthusiast 
+### Systems Engineer | Backend Infrastructure Developer | Advanced CS Research Applicant
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🌍 **Based in:** Kathmandu, Nepal  
-- 🎓 **Focus:** Preparing for graduate studies and research in Computer Science  
-- 🧠 **Passionate about:** Scalable backend systems, Artificial Intelligence, and enterprise software solutions  
-- 🚀 **Currently exploring:** AI-assisted development workflows and Generative AI applications  
-
----
-
-## 🔍 Areas of Interest
-
-- Backend Development
-- Artificial Intelligence & Machine Learning
-- Generative AI & AI-assisted Applications
-- ERP Systems & Database Architecture
-- Scalable Enterprise Solutions
+- 🌍 **Location:** Kathmandu, Nepal  
+- 💼 **Experience:** 3+ Years of Commercial Software Engineering specializing in high-throughput transactional backends, enterprise ERP frameworks, and multi-tenant isolation mechanics.
+- 🎓 **Academic Target:** Fall 2027 M.Sc. in Computer Science / Applied Systems Research.
+- 🧠 **Technical Focus:** Optimizing database query performance, state-persistent financial ledgers, and asynchronous data pipelines.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Technical Stack
 
-### Programming Languages
-- PHP
-- Java
-- JavaScript
-- Python
-
-### Frameworks & Technologies
-- Laravel
-- REST APIs
-- MySQL
-- Git & GitHub
-- VPS Deployment
+* **Languages & Environments:** PHP (Laravel Core), Python, JavaScript, Java, SQL (MySQL, PostgreSQL)
+* **Architectures & Paradigms:** Dynamic Schema Multi-Tenancy, RESTful API Engineering, Stateful Ledger Mechanics, Multi-Tier Tariff Frameworks
+* **Asynchronous & Queue Systems:** Redis, Database-backed Queue Workers, Automated Task Schedulers, Cron Architecture
+* **Infrastructure & Security:** Nginx VPS Configuration, Ubuntu Server Administration, Cryptographically Signed Cryptographic Payloads, CI/CD Automations
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Pinned Production Frameworks
 
-### 🏢 ERP Backend System
-An enterprise resource planning system featuring:
-- Multi-Tenant Architecture
-- Inventory Management & Stock Reporting
-- Task Scheduling
-- Role-based access control (Spatie Roles & Permissions)
+### 🏢 [Distributed-Enterprise-ERP-Core](https://github.com)
+An enterprise-grade ERP backend subsystem built to handle decoupled multi-organization enterprise workflows.
+* **Architecture:** Database-per-tenant dynamic schema isolation.
+* **Optimization:** Custom MySQL indexing and table partitioning achieving 40% read/write latency optimization under simulated loads of 10,000+ daily concurrent executions.
 
-### ⚡ Bidut Utility Billing System
-- A robust utility billing and management platform.
+### ⚡ [High-Precision-Utility-Billing-Engine](https://github.com)
+An asynchronous transactional processing core built natively for public utility billing structures using NPR currency cycles.
+* **Architecture:** Stateful ledger calculations balancing outstanding arrears, compounding late fines, and advance credit escrow injections.
+* **Integrations:** Decoupled asynchronous task schedulers and secure webhook processing engines.
 
-### 📦 Inventory Management System
-- An inventory and warehouse tracking system with automated stock management features.
-
----
-
-## 📚 Current Goal
-
-Building scalable backend systems and preparing for advanced research in:
-- Enterprise Software Architecture
-- AI-assisted Business Solutions
-- Software Development, AI, and Machine Learning
+### 📦 [Movie-Recommendation-System](https://github.com)
+An applied data engineering and prediction application evaluating structural preferences using collaborative filtering vectors.
 
 ---
 
-## 📫 Contact
+## 📚 Active Research & Academic Goals
 
-- 📧 **Email:** bckaran17@gmail.com
-- 💼 **GitHub:** [://github.com](https://github.com/Karan-kb) 
+I am aggressively targeting research opportunities and Graduate Assistantships (RA) in labs focused on:
+* **Distributed Software Architecture:** Designing zero-leak multi-tenant patterns.
+* **High-Performance Data Engineering:** Optimizing query execution plans and caching layer structures for real-time compliance integrations.
+* **Applied Machine Learning Pipelines:** Wrapping prediction algorithms into production-ready web endpoints.
 
 ---
 
-## 🚀 Motto
+## 📫 Contact & Networks
 
-> “Building practical systems today while preparing for the intelligent systems of tomorrow.”
+* 📧 **Email:** bckaran17@gmail.com
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/karan-b-c-2162a81b8/)
+
+---
+
+## 🚀 Mission Statement
+> "Engineering highly optimized, high-precision transactional backends today while preparing for the decentralized, intelligent computing systems of tomorrow."
