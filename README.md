@@ -1,59 +1,61 @@
-# 🎯 Hi, I'm Karan B.C.
+# 🎯 Karan B.C.
 
-### Systems Engineer | Backend Infrastructure Developer | Advanced CS Research Applicant
-
----
-
-## 👨‍💻 Professional Summary
-
-- 🌍 **Location:** Kathmandu, Nepal  
-- 💼 **Experience:** 3+ Years of Commercial Software Engineering specializing in high-throughput transactional backends, enterprise ERP frameworks, and multi-tenant isolation mechanics.
-- 🎓 **Academic Target:** Fall 2027 M.Sc. in Computer Science / Applied Systems Research.
-- 🧠 **Technical Focus:** Optimizing database query performance, state-persistent financial ledgers, and asynchronous data pipelines.
+### Systems Research Candidate | Focus: High-Throughput Data Infrastructure & Distributed Software Architecture
 
 ---
 
-## ⚙️ Core Technical Stack
+## 🔬 Research & Professional Profile
 
-* **Languages & Environments:** PHP (Laravel Core), Python, JavaScript, Java, SQL (MySQL, PostgreSQL)
-* **Architectures & Paradigms:** Dynamic Schema Multi-Tenancy, RESTful API Engineering, Stateful Ledger Mechanics, Multi-Tier Tariff Frameworks
-* **Asynchronous & Queue Systems:** Redis, Database-backed Queue Workers, Automated Task Schedulers, Cron Architecture
-* **Infrastructure & Security:** Nginx VPS Configuration, Ubuntu Server Administration, Cryptographically Signed Cryptographic Payloads, CI/CD Automations
-
----
-
-## 🌟 Pinned Production Frameworks
-
-### 🏢 [Distributed-Enterprise-ERP-Core](https://github.com)
-An enterprise-grade ERP backend subsystem built to handle decoupled multi-organization enterprise workflows.
-* **Architecture:** Database-per-tenant dynamic schema isolation.
-* **Optimization:** Custom MySQL indexing and table partitioning achieving 40% read/write latency optimization under simulated loads of 10,000+ daily concurrent executions.
-
-### ⚡ [High-Precision-Utility-Billing-Engine](https://github.com)
-An asynchronous transactional processing core built natively for public utility billing structures using NPR currency cycles.
-* **Architecture:** Stateful ledger calculations balancing outstanding arrears, compounding late fines, and advance credit escrow injections.
-* **Integrations:** Decoupled asynchronous task schedulers and secure webhook processing engines.
-
-### 📦 [Movie-Recommendation-System](https://github.com)
-An applied data engineering and prediction application evaluating structural preferences using collaborative filtering vectors.
+* 🌍 **Location:** Kathmandu, Nepal  
+* 💼 **Systems Engineering Background:** 3+ Years of commercial experience specializing in high-concurrency transaction cores, data isolation paradigms, and runtime database routing vectors.
+* 🎓 **Academic Target:** Fall 2027 M.Sc. in Computer Science / Graduate Research Assistantship (RA) tracks.
+* 🧠 **Technical Architecture Focus:** Mitigating race conditions in decoupled queues, empirical optimization of dynamic data storage boundaries, and sub-linear inference query paths.
 
 ---
 
-## 📚 Active Research & Academic Goals
+## ⚙️ Core Technical Environment Primitives
 
-I am aggressively targeting research opportunities and Graduate Assistantships (RA) in labs focused on:
-* **Distributed Software Architecture:** Designing zero-leak multi-tenant patterns.
-* **High-Performance Data Engineering:** Optimizing query execution plans and caching layer structures for real-time compliance integrations.
-* **Applied Machine Learning Pipelines:** Wrapping prediction algorithms into production-ready web endpoints.
-
----
-
-## 📫 Contact & Networks
-
-* 📧 **Email:** bckaran17@gmail.com
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/karan-b-c-2162a81b8/)
+* **Implementation Environments:** Python, Java, SQL (PostgreSQL, MySQL Optimization), PHP (Advanced Performance / Memory Tuning)
+* **Architectural Paradigms:** Dynamic Schema Multi-Tenancy, Isolated Sharding Topologies, State-Persistent Ledgers, Decimal Precision Mechanics
+* **Asynchronous Execution & Brokering:** Redis Cluster Deployments, Distributed Database-Backed Queue Workers, Automated Task Schedulers
+* **Infrastructure Engineering:** Nginx VPS Reverse Proxy Topologies, Ubuntu Server Core Administration, Cryptographically Signed Payloads
 
 ---
 
-## 🚀 Mission Statement
-> "Engineering highly optimized, high-precision transactional backends today while preparing for the decentralized, intelligent computing systems of tomorrow."
+## 🌟 Pinned Experimental Frameworks
+
+### 🏢 [Distributed-Enterprise-ERP-Core](https://github.com/Karan-kb/Distributed-Enterprise-ERP-Core)
+An empirical evaluation framework built to simulate and profile decoupled multi-organization enterprise workflows.
+* **Research Dimension:** Database-per-tenant runtime dynamic schema isolation vectors.
+* **Empirical Results:** Custom horizontal table partitioning and query optimization mapping achieved a **40% reduction in read/write latency** under stress loads of 10,000+ daily concurrent executions.
+
+### ⚡ [High-Precision-Utility-Billing-Engine]([https://github.com](https://github.com/Karan-kb/High-Precision-Utility-Billing-Engine))
+A state-persistent distributed transaction engine designed to analyze asynchronous balance mutation behaviors.
+* **Research Dimension:** Eliminating race conditions and memory deadlocks within multi-tier transaction queues.
+* **Security & Ingestion Infrastructure:** Integrated decoupled async queue workers and cryptographically signed webhook validation filters to ensure ledger schema immutability.
+
+### 📦 [Movie-Recommendation-System]([https://github.com](https://github.com/Karan-kb/Movie-Recommendation-System))
+An algorithmic text retrieval and inference pipeline evaluating content proximity constraints across mathematical matrices.
+* **Research Dimension:** Optimizing vector space query overhead using CountVectorizer tokenization and angular Cosine Proximity mapping.
+* **Telemetry Profiling:** Features deterministic execution latency matrix tracking and architectural models extending into Approximate Nearest Neighbor (ANN) graphing spaces.
+
+---
+
+## 📚 Active Research Directions & Academic Goals
+
+I am actively pursuing Graduate Research Assistantships (RA) inside academic computer science labs specializing in:
+* **Distributed Cloud Architecture:** Designing zero-leak, high-isolation multi-tenant database systems and cross-regional cluster networks.
+* **High-Performance Data Engineering:** Overhauling query execution paths, cache-miss barriers, and write-ahead log parameters under heavy write loads.
+* **Optimized Inference Pipelines:** Compressing deep learning and text-retrieval similarity spaces into lightweight, micro-frontend serving layers.
+
+---
+
+## 📫 Academic Networking & Context
+
+* 📧 **Institutional Contact Email:** bckaran17@gmail.com
+* 💼 **Professional Network Profile:** [LinkedIn Portal](https://www.linkedin.com/in/karan-b-c-2162a81b8/)
+
+---
+
+## 🚀 Research Vision Statement
+> "Developing rigorous, high-precision transactional infrastructures today to benchmark and secure the decentralized, data-intensive intelligent systems of tomorrow."
