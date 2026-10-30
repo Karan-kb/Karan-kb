@@ -8,8 +8,8 @@ I am a software engineer with 3+ years of commercial backend experience speciali
 ## 🔬 Core Technical Environment
 
 * **Languages:** PHP, Python, Java, SQL (MySQL, PostgreSQL)
-* **Frameworks & Tools:** Laravel MVC, Redis Cluster, Nginx, Docker, Git
-* **Systems Interest:** Multi-tenancy isolation, database sharding, asynchronous event queues, performance benchmarking
+* **Frameworks & Tools:** Laravel MVC, Redis Cluster, Nginx, Git
+* **Systems Interest:** Multi-tenancy isolation, asynchronous event queues, performance benchmarking
 
 ---
 
