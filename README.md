@@ -35,4 +35,4 @@ A modular Python text retrieval pipeline built to analyze computational resource
 ## 📬 Contact & Profiles
 
 * 📧 **Email:** bckaran17@gmail.com
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com-2162a81b8/)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/karan-b-c-2162a81b8/
